@@ -1,0 +1,35 @@
+# ------------------------------------------------------------------------------
+# ~/_data/modules/chat.yml
+# User configuration settings for J1 Chat module
+#
+# Product/Info:
+# https://jekyll.one
+#
+# Copyright (C) 2023, 2024 Juergen Adams
+#
+# J1 Template is licensed under the MIT License.
+# See: https://github.com/jekyll-one/J1 Theme/blob/master/LICENSE
+# ------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------
+# Description
+#
+description:
+  title:                                J1 Chat
+  scope:                                User settings
+  location:                             _data/modules/chat.yml
+
+# ------------------------------------------------------------------------------
+# User configuration settings
+#
+settings:
+  enabled:                              true
+
+  # Provider settings
+  # ----------------------------------------------------------------------------
+  #
+  provider:                             vivochat
+  chatbotID:                            3d0b29f1-623a-4915-a817-e436d328f18f
+
+# ------------------------------------------------------------------------------
+# END config
